@@ -5,8 +5,8 @@ using System.Text;
 
 namespace ClearnArch.Appication.Interfaces
 {
-    public interface IcourseService
+    public interface ICourseService
     {
-        IEnumerable<CourseViewModel> GetCourses();
+        CourseViewModel GetCourses();
     }
 }
