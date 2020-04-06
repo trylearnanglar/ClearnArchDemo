@@ -1,11 +1,11 @@
-﻿using ClearnArch.Domain.Interfaces;
-using ClearnArch.Domain.Models;
-using ClearnArch.Infra.Data.Context;
+﻿using CleanArch.Domain.Interfaces;
+using CleanArch.Domain.Models;
+using CleanArch.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClearnArch.Infra.Data.Repository
+namespace CleanArch.Infra.Data.Repository
 {
     public class CourseRepository : ICourseRepository
     {

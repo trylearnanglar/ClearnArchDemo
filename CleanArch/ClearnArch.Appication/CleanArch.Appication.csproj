@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClearnArch.Domain\ClearnArch.Domain.csproj" />
+    <ProjectReference Include="..\ClearnArch.Domain\CleanArch.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,11 +1,11 @@
-﻿using ClearnArch.Domain.Models;
+﻿using CleanArch.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClearnArch.Infra.Data.Context
+namespace CleanArch.Infra.Data.Context
 {
     public class UniversityDBContext : DbContext
     {

@@ -1,9 +1,9 @@
-﻿using ClearnArch.Domain.Models;
+﻿using CleanArch.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClearnArch.Domain.Interfaces
+namespace CleanArch.Domain.Interfaces
 {
     public interface ICourseRepository
     {

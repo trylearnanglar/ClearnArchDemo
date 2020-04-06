@@ -1,11 +1,11 @@
-﻿using ClearnArch.Appication.Interfaces;
-using ClearnArch.Appication.ViewModels;
-using ClearnArch.Domain.Interfaces;
+﻿using CleanArch.Appication.Interfaces;
+using CleanArch.Appication.ViewModels;
+using CleanArch.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClearnArch.Appication.Services
+namespace CleanArch.Appication.Services
 {
     public class CourseService : ICourseService
     {

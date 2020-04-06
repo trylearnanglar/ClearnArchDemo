@@ -1,9 +1,9 @@
-﻿using ClearnArch.Appication.ViewModels;
+﻿using CleanArch.Appication.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClearnArch.Appication.Interfaces
+namespace CleanArch.Appication.Interfaces
 {
     public interface ICourseService
     {
